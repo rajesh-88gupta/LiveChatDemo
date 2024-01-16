@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437741361293",
+    "project_id": "livechatdemo-db0b4",
+    "storage_bucket": "livechatdemo-db0b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437741361293:android:a24cbfa15430c8969eeac4",
+        "android_client_info": {
+          "package_name": "com.agro.livechatdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdc27ZXNnnMnyF2EtbN-DTm6BuHNvF5F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
